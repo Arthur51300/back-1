@@ -32,6 +32,3 @@ jobs:
     
     - run: ls -ali && ls -ali target/
     
-  
-
-      run: mvn -B package --file pom.xml
